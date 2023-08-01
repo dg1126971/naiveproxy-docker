@@ -366,7 +366,9 @@ read_var_from_user() {
         fi
     else
         # say "certMode: 2（使用现有证书）"
-        autoHttps="auto_https disable_certs"
+        # autoHttps="auto_https disable_certs"
+        autoHttps="disable_certs"
+        # autoHttps="auto_https"
         if [ -z "$certKeyFile" ]; then
             read -p "请输入证书key文件路径:" certKeyFile
         else
