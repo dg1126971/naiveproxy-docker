@@ -236,8 +236,8 @@ autoHttps=""
 
 mail="zy47034@outlook.com"
 
-httpPort=""
-httpsPort=""
+httpPort="80"
+httpsPort="443"
 
 user="yynid"
 
