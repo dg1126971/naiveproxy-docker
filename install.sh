@@ -227,20 +227,19 @@ echo '             |___/                                '
 # ------------vars-----------、
 gitRowUrl="https://raw.githubusercontent.com/RayWangQvQ/naiveproxy-docker/main"
 
-host=""
+host="ruaa.ruaa.ontheweb.nu"
 
 certMode=""
 certFile=""
 certKeyFile=""
 autoHttps=""
 
-mail=""
+mail="zy47034@outlook.com"
 
 httpPort=""
 httpsPort=""
 
-user=""
-pwd=""
+user="yynid"
 
 fakeHostDefault="https://demo.cloudreve.org"
 fakeHost=""
