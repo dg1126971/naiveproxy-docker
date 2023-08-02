@@ -240,7 +240,7 @@ httpPort="80"
 httpsPort="443"
 
 user="yynid"
-
+pwd="yynid"
 fakeHostDefault="https://demo.cloudreve.org"
 fakeHost=""
 
